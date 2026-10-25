@@ -1,0 +1,6 @@
+{
+  "name": "تولیدی کیف ابزار و همه‌کاره نقش جهان (Tool Kit)",
+  "description": "تولید تخصصی انواع کیف‌های برزنتی ابزارآلات، دستگاه جوش، سنگ فرز، مسافرتی، باربند، جاپتویی و کاورهای چادر مسافرتی با پارچه ۳لا و ۶لا و نخ ۲۳ لا پنبه‌ای",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
