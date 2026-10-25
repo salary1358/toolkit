@@ -33,7 +33,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenCalculator }) => {
             {/* Tagline kicker */}
             <div className="inline-flex items-center gap-2 text-xs font-semibold text-amber-400 bg-amber-500/10 border border-amber-500/20 px-3 py-1.5 rounded-md">
               <Scissors className="w-3.5 h-3.5" />
-              <span>تولید دست‌اول کارگاهی بدون واسطه در اصفهان و ارسال سراسر کشور</span>
+              <span>تولید دست‌اول کارگاهی بدون واسطه در اصفهان، مشهد و ارسال سراسر کشور</span>
             </div>
 
             {/* Main Headline */}

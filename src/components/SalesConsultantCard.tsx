@@ -26,7 +26,7 @@ export const SalesConsultantCard: React.FC<SalesConsultantCardProps> = ({
         <div className="relative shrink-0">
           <div className="w-36 h-36 sm:w-44 sm:h-44 rounded-2xl overflow-hidden bg-white border-2 border-stone-100 shadow-md p-1 flex items-center justify-center">
             <img
-              src="/assets/aistudio/500_08da55d5.jpg"
+              src="/assets/aistudio/2000_5896407a.jpg"
               alt="کارشناس و مشاور فروش آقای نظری"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover object-top rounded-xl filter contrast-[1.03] brightness-[1.02]"
